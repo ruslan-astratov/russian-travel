@@ -1,0 +1,22 @@
+
+
+/* Указание авторства */
+.footer__copyright {
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+}
+
+
+
+@media  (max-width: 320px) {
+  .footer__copyright {
+    margin: 0;
+    padding-bottom: 24px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+  }
+}

@@ -1,0 +1,32 @@
+
+@import url(./__caption/lead__caption.css);
+@import url(./__image/lead__image.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__title/__title.css);
+
+
+/* Блок Lead */
+.lead {
+  max-width: 984px;
+  max-height: 1005px;
+  margin: 0 auto 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .lead {
+    padding: 0 48px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead {
+    padding: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .lead {
+    padding: 0;
+  }
+}
+

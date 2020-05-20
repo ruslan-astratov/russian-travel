@@ -1,0 +1,4 @@
+/* Для span убрал выделение жирным */
+.intro__list-quantity {
+  font-weight: normal;
+}

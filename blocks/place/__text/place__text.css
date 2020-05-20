@@ -1,0 +1,18 @@
+
+/* Блок с абзацами */
+.place__text {
+  -webkit-transform: translateY(-6px);
+      -ms-transform: translateY(-6px);
+          transform: translateY(-6px);
+  }
+
+
+  @media (max-width: 320px) {
+    .place__text {
+      max-width: 288px;
+      margin: 0 auto 0 auto;
+    }
+  }
+
+
+

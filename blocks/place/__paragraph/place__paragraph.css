@@ -1,0 +1,23 @@
+
+/* АБЗАЦ        P */
+.place__paragraph {
+  margin: 0;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+
+}
+
+
+.place__paragraph:nth-child(1) {
+  margin-bottom: 24px;
+}
+
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}

@@ -1,0 +1,26 @@
+
+
+
+/* Пункты списка  li */
+.footer__link-item {
+  margin-right: 18px;
+}
+
+@media (min-width: 321px) and (max-width: 519px) {
+  .footer__link-item {
+    margin-bottom: 20px;
+  }
+}
+
+
+@media  (max-width: 320px) {
+  .footer__link-item {
+    margin-bottom: 32px;
+  }
+
+  .footer__link-item:last-of-type {
+    margin-bottom: 48px;
+  }
+
+}
+

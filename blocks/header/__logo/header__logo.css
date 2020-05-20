@@ -1,0 +1,13 @@
+/* Свойства логотипа */
+.header__logo {
+  max-width: 176px;
+  max-height: auto;
+  width: 100%;
+}
+
+@media (max-width: 320px) {
+  .header__logo {
+    max-width: 142px;
+    max-height: auto;
+  }
+}

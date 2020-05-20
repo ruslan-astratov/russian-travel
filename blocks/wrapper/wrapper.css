@@ -1,0 +1,22 @@
+.wrapper {
+  min-width: 320px;
+  /* выше установлена минимальная ширина страницы */
+  max-width: 1280px;
+  /* выше установили ограничение по максимальной ширине */
+  margin: 0 auto;
+  /* выше для экранов больше 1280px отцентрировали весь контент */
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  background-color: #2A2C2F;
+
+  /* Сглаживание текста */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+   /*Подгонка размера текста */
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
+

@@ -1,0 +1,19 @@
+/* Контейнер с адресом сайта */
+.place__website {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+  }
+
+
+  @media (min-width: 321px) and (max-width: 720px) {
+    .place__website {
+      display: none;
+    }
+  }
+
+  @media (max-width: 320px) {
+    .place__website {
+      display: none;
+    }
+  }
+
