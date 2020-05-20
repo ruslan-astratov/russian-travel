@@ -1,4 +1,3 @@
-
 /* Список ul с достопримечательностями */
 .intro__list {
   max-width: 690px;
@@ -9,3 +8,5 @@
   color: #FFFFFF;
   list-style: none;
 }
+
+

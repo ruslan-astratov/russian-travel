@@ -3,9 +3,6 @@
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__title/cover__title.css);
 
-
-
-
 /* Блок Cover  -- До Байкала  на собаках */
 .cover {
   margin: 98px 48px 0;
@@ -13,11 +10,13 @@
   color: #FFFFFF;
 }
 
+
 @media (max-width: 1024px) {
   .cover {
     margin: 92px 0 0;
   }
 }
+
 
 @media (max-width: 768px) {
   .cover {
@@ -31,3 +30,5 @@
     margin: 64px 0 0;
   }
 }
+
+

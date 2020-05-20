@@ -7,7 +7,6 @@
 @import url(./__website/place__website.css);
 
 
-
 /* ГРИД КОНТЕЙНЕР ,  класс article place */
 .place {
   display: -ms-grid;
@@ -25,7 +24,6 @@
 .place:first-of-type {
   padding-top: 92px;
 }
-
 
 
 
@@ -77,3 +75,4 @@
     padding-top: 56px;
   }
 }
+

@@ -1,4 +1,3 @@
-
 /* Блок с абзацами */
 .place__text {
   -webkit-transform: translateY(-6px);
@@ -13,6 +12,8 @@
       margin: 0 auto 0 auto;
     }
   }
+
+
 
 
 

@@ -1,6 +1,4 @@
-
 /* Изображение */
-
 .lead__image {
   margin-bottom: 8px;
   max-width: 984px;
@@ -9,3 +7,5 @@
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+

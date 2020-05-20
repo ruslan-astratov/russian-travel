@@ -1,6 +1,5 @@
 /* Сопровождающий текст p*/
 .intro__text {
-
   max-width: 690px;
   margin: 0 0 32px 0;
   font-weight: normal;
@@ -15,3 +14,5 @@
 
   }
 }
+
+

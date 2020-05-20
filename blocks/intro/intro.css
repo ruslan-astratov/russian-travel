@@ -5,11 +5,8 @@
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
 
-
-
 /* Блок intro */
 .intro {
-
   max-width: 984px;
   height: auto;
   margin: auto;
@@ -33,4 +30,6 @@
     padding: 64px 16px 0;
   }
 }
+
+
 

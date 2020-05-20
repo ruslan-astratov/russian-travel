@@ -1,6 +1,3 @@
-
-
-
 /* Список со ссылками, ul */
 .header__list-lang {
   list-style: none;
@@ -12,3 +9,7 @@
   -ms-flex-item-align: end;
       align-self: flex-end;
 }
+
+
+
+
